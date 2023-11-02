@@ -2,6 +2,7 @@ site_name: guide-github
 repo_name: but-sd/guide-github
 
 nav:
+  - Accueil: index.md
   - Pull requests: pull-request.md
   - Actions: actions.md
   - Projects: projects.md
