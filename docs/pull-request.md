@@ -53,15 +53,13 @@ Pour créer une pull request, il faut aller sur la page du repository, puis cliq
 
 Lors de la création de la pull request, vous pouvez ajouter un titre et une description. Le titre doit être explicite et doit permettre de comprendre rapidement ce que fait la pull request. La description permet de donner plus de détails sur la pull request. Par exemple, vous pouvez expliquer pourquoi vous avez fait cette pull request, quelles sont les modifications apportées, etc.
 
-Si la pull request est toujours en cours de développement et que vous souhaitez la sauvegarder sans la publier, vous pouvez cliquer sur le bouton `Create draft pull request`. Cela permet de sauvegarder la pull request sans la publier. Vous pouvez ensuite la publier plus tard.
-
 Une fois la pull request créée, vous pouvez la consulter. Vous pouvez voir les modifications apportées par la pull request ainsi que les commits qui ont été ajoutés, les fichiers modifiés par la pull request. Vous pouvez également voir les discussions qui ont eu lieu sur la pull request.
 
 ![Pull request](./images/pull-request.png)
 
 ## Fusionner une pull request
 
-Une fois que la pull request est prête, vous pouvez la fusionner. Pour cela, il faut cliquer sur le bouton `Merge pull request`. Si elle est en mode `draft`, il faut d'abord la publier en cliquant sur le bouton `Ready for review`.
+Une fois que la pull request est prête, vous pouvez la fusionner. Pour cela, il faut cliquer sur le bouton `Merge pull request`.
 
 Comme nous n'avons pas encore mis en place d'étapes de validation, nous pouvons fusionner la pull request directement. Cependant, il est possible, même conseillé de mettre en place des étapes de validation avant de pouvoir fusionner la pull request.
 
